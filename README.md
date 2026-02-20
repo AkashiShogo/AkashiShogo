@@ -1,7 +1,7 @@
 <h1 align="center">明石 祥吾 / Akashi Shogo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer+🚀;Frontend+Specialist+✨;Vibe+Coder+🎵;OSS+Contributor+🌱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;Frontend+Specialist;Vibe+Coder;OSS+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -43,8 +43,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkashiShogo&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashiShogo&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkashiShogo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashiShogo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
 </p>
 
 <p align="center">
