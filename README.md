@@ -1,17 +1,27 @@
 <h1 align="center">明石 祥吾 / Akashi Shogo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;Frontend+Specialist;Vibe+Coder;OSS+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;HR+%26+Recruiting+Lead;Training+Instructor;Vibe+Coder" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  要件定義からリリースまで一気通貫で対応できるフルスタックエンジニア。<br>
-  A full-stack engineer who covers everything from requirements to release.
+  エンジニアリングと人事・育成の両軸でキャリアを築いてきた、多角的なプロフェッショナル。<br>
+  A multi-faceted professional with expertise in full-stack engineering and people management.
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## 💼 Career Highlights
+
+| 領域 | 実績 |
+|------|------|
+| 🖥️ Engineering | 要件定義〜リリースまで一気通貫で対応。ウォーターフォール・アジャイル両方を経験し、アーキテクト設計からフロントエンド開発まで担当 |
+| 👥 HR & Recruiting | 採用責任者として年間600名以上と面談し、合計60名以上の採用を実現。人材紹介会社・採用媒体の管理、複数名のキャリア育成・評価・マネジメントを担当 |
+| 🎓 Training & Mentoring | 新人研修講師として約50名を育成。研修カリキュラムの標準化・改善を推進 |
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -78,10 +88,10 @@
 
 ## 🌱 Interests
 
-- 🛠 個人開発 / Personal Development
+- 🛠️ 個人開発 / Personal Development
 - 🌐 オープンソース貢献 / OSS Contributions
 - 🤖 Vibe Coding
-- 💼 キャリア / Career Development
+- 👥 人材育成・組織開発 / People Development
 - 🔧 IT ガジェット / IT Gadgets
 
 ---
