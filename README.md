@@ -9,8 +9,6 @@
   A multi-faceted professional with expertise in full-stack engineering and people management.
 </p>
 
----
-
 ## 💼 Career Highlights
 
 | 領域 | 実績 |
@@ -18,8 +16,6 @@
 | 🖥️ Engineering | 要件定義〜リリースまで一気通貫で対応。ウォーターフォール・アジャイル両方を経験し、アーキテクト設計からフロントエンド開発まで担当 |
 | 👥 HR & Recruiting | 採用責任者として年間600名以上と面談し、合計60名以上の採用を実現。人材紹介会社・採用媒体の管理、複数名のキャリア育成・評価・マネジメントを担当 |
 | 🎓 Training & Mentoring | 新人研修講師として約50名を育成。研修カリキュラムの標準化・改善を推進 |
-
----
 
 ## 🛠️ Tech Stack
 
@@ -59,15 +55,11 @@
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
----
-
 ## ✍️ Writing
 
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://zenn.dev/akashi)
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/akashishogo)
 [![note](https://img.shields.io/badge/note-41C9B4?style=flat-square&logo=note.com&logoColor=white)](https://note.com/akashi_shogo)
-
----
 
 ## 📊 GitHub Stats
 
@@ -84,8 +76,6 @@
   <img src="https://streak-stats.demolab.com/?user=AkashiShogo&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
 ## 🌱 Interests
 
 - 🛠️ 個人開発 / Personal Development
@@ -93,8 +83,6 @@
 - 🤖 Vibe Coding
 - 👥 人材育成・組織開発 / People Development
 - 🔧 IT ガジェット / IT Gadgets
-
----
 
 ## 📫 Contact
 
