@@ -1,7 +1,7 @@
 <h1 align="center">明石 祥吾 / Akashi Shogo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=600&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer%3B%E3%83%90%E3%82%B0%E8%A3%BD%E9%80%A0%E5%85%BC%E3%83%90%E3%82%B0%E4%BF%AE%E6%AD%A3%E6%8B%85%E5%BD%93%3BHR+%26+Recruiting+Lead%3BCDD+%28Coffee-Driven+Developer%29%3BVibe+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=600&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineer%3B%E3%83%90%E3%82%B0%E8%A3%BD%E9%80%A0%E5%85%BC%E3%83%90%E3%82%B0%E4%BF%AE%E6%AD%A3%E6%8B%85%E5%BD%93%3BHR+%26+Recruiting+Lead%3BCDD+%28Coffee-Driven+Developer%29%3BVibe+Coder" alt="Typing SVG" />
 </p>
 
 <p align="center">
