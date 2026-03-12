@@ -6,7 +6,7 @@
 
 <p align="center">
   ソフトウェアエンジニアとして開発に携わりながら、採用・育成にも関わってきました。<br>
-  Engineer who enjoys building things and helping people grow.
+  Software Engineer who enjoys building things and helping people grow.
 </p>
 
 ## 💼 Career
@@ -24,7 +24,6 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -52,11 +51,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashiShogo&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AkashiShogo&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 📫 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:akashi.shogo1993@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AkashiShogo)
