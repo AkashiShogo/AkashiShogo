@@ -1,4 +1,6 @@
-<h1 align="center">明石 祥吾 / Akashi Shogo</h1>
+<p align="center">
+  <strong>明石 祥吾 / Akashi Shogo</strong>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=600&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineer;Indie+Hacker;Vibe+Coder;AtCoder+in+progress" alt="Typing SVG" />
@@ -8,6 +10,8 @@
   複雑なものをシンプルにする。頭の中にあるものを、動くものにする。<br>
   Building simple things. Turning ideas into products.
 </p>
+
+<br>
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -19,9 +23,13 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
+<br>
+
 <a href="https://github.com/AkashiShogo/next-ac">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkashiShogo&repo=next-ac&theme=tokyonight" />
 </a>
+
+<br><br>
 
 <p>
   <a href="mailto:akashi.shogo1993@gmail.com">
