@@ -1,6 +1,4 @@
-<p align="center">
-  <strong>明石 祥吾 / Akashi Shogo</strong>
-</p>
+<h3 align="center">明石 祥吾 / Akashi Shogo</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=600&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineer;Indie+Hacker;Vibe+Coder;AtCoder+in+progress" alt="Typing SVG" />
