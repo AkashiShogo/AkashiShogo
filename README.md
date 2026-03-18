@@ -9,9 +9,7 @@
   Building simple things. Turning ideas into products.
 </p>
 
----
-
-## Tech Stack
+<br>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -21,12 +19,12 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## Projects
+<br>
 
 <a href="https://github.com/AkashiShogo/next-ac">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkashiShogo&repo=next-ac&theme=tokyonight" />
 </a>
 
-## Contact
+<br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:akashi.shogo1993@gmail.com)
