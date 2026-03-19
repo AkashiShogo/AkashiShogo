@@ -27,6 +27,9 @@
   <a href="https://github.com/AkashiShogo/next-ac">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkashiShogo&repo=next-ac&theme=tokyonight" />
   </a>
+  <a href="https://github.com/AkashiShogo/catch-me">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkashiShogo&repo=catch-me&theme=tokyonight" />
+  </a>
 </p>
 
 <br>
